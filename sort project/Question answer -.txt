@@ -1,0 +1,113 @@
+Question answer :-
+
+1. DSA full form ?
+-> DSA = Data Structure and Algorithm
+
+2. C++ programming language was developed in ?
+-> 1979
+
+3. OOP full form ?
+-> OOP = Object Oriented Programming 
+
+4. Type of operater ?
+-> 6
+
+5. Type of conversion ?
+-> 1. implicit 
+   2. Explicit
+
+6. Type of control structure ?
+-> 1.Sequential Structure
+   2. Selection Structure
+   3. Reptition structure
+
+7. What is flowchart ?
+-> A flowchart is a graphical representation  of a process or algorithm.
+
+8. Type of Repetition structure ?
+-> 1. Enter control loop 
+   2. Exit Control loop
+
+9. Type of entry control loop ?
+-> 1. While loop
+   2. for loop
+
+10. Type of exit control loop ?
+-> do while loop
+
+11. What is Pattern ?
+-> A pattern is a specific arrangement of characters or symbols in a systematic and predicatable manner.
+
+12. Type of Categories of Pattern.
+-> 1. Number pattern
+   2. Charater pattern
+   3. symbol patern
+
+13. Type of pattern ?
+-> 1. without space
+   2. with space
+   3. custom 
+
+14. What is array ?
+-> An array is a collection of element of the same data type.
+
+15. Type of Array ?
+-> 1. One dimensional
+   2. Multi dimensional
+
+16. what is one dimensional array ?
+->  A one-dimensional array is collection of elements of the same data type.
+
+17. Type of array operations
+-> 1. insertion
+   2. iteration
+   3. modification
+
+18. what is CRUD operations ?
+-> C = Create / insert
+   R = Read / Access / Fetch / Select / iterate
+   U = Update
+   D = delete
+
+19. what is 2d array ?
+-> A 2D array is a data structure that represents a table or a matrix with rows and columns.
+
+11. What is function ?
+-> A function is a self-contained block of code that performs a specific task.
+
+12. Type of function ?
+-> 1. Built-in function
+   2. User defined function
+
+13. UDF full form ?
+-> UDF = User Defined Function
+
+14 Type of UDF ?
+-> 1. TRNN
+   2. TRNS
+   3. TSRN
+   4. TSRS
+
+15. What is pointer ?
+-> A pointer is a variable which holds a memory address of another variable.
+
+16. What is array of pointer ?
+-> Array of pointer means we have to create an array of multiple pointers.
+
+17. Chain of pointer ?
+-> A pointer to a pointer is a concept where a pointer variable holds the address of another pointer variable.
+
+18. OOPS full form ?
+-> OOPS = object oriented programming system.
+
+19. Type of OOPS?
+-> 1. Abstraction
+   2. Encapsulation
+   3. Inheritance
+   4. Polymorphism
+
+19. What is Meaning of encapsulation?
+-> The meaning of encapsulation is to make sure that "sensitive" data is hidden from users.
+
+20. What is Array of object ?
+-> An array of objects is a collection of object of the same class stored in contiguous memory locations.
